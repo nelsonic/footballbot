@@ -1,0 +1,25 @@
+{
+  "name": "footballbot_nelsonic",
+  "version": "0.0.1",
+  "description": "Solutions for footballbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "na"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nelsonic/footballbot.git"
+  },
+  "keywords": [
+    "footballbot"
+  ],
+  "author": "nelsonic <nodecoder@gmail.com> (https://github.com/nelsonic)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nelsonic/footballbot/issues"
+  },
+  "homepage": "https://github.com/nelsonic/footballbot",
+  "dependencies": {
+    "footballbot": "^1.1.0"
+  }
+}
